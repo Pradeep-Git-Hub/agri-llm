@@ -1,0 +1,62 @@
+[
+  {
+    "id": "tomato_early_blight",
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "content": "\nTomato early blight is a common disease caused by the fungi\nAlternaria tomatophila and Alternaria solani.\n\nSymptoms:\nEarly symptoms usually appear on older leaves near the bottom of the plant.\nSmall dark brown spots develop on leaves. Larger spots can develop\ntarget-like concentric rings, and the surrounding tissue may turn yellow.\nSeverely affected leaves can turn brown and fall from the plant.\nStem lesions may also contain concentric rings, and fruit can develop\ndark lesions, often near the stem.\n\nDisease development:\nThe disease can develop under moderate to warm temperatures and is\nfavored by wet weather, heavy dew, and high humidity.\n\nManagement:\nUse disease-free seed and healthy transplants. Keep foliage as dry as\npossible and prefer drip irrigation or watering at the plant base.\nImprove airflow through appropriate spacing, staking, or trellising.\nRemove infected leaves and plant debris, and rotate away from tomato\nand related crops where appropriate.\n"
+  },
+  {
+    "id": "tomato_late_blight",
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "content": "\nTomato late blight is caused by Phytophthora infestans, an organism\nclassified as a water mold.\n\nSymptoms:\nDark brown lesions can develop on tomato leaves and stems. Under high\nhumidity, white growth may appear on infected plant tissue. Tomato fruit\ncan develop firm, dark brown circular spots that may become soft after\nsecondary infections.\n\nDisease development:\nLate blight favors cool, damp conditions. Disease can spread rapidly\nunder favorable environmental conditions.\n\nManagement:\nScout plants regularly and remove diseased material when appropriate.\nKeep foliage as dry as possible and improve air circulation. Use healthy\nplanting material and manage infected crop debris. Where pesticides are\nused, follow the current product label and local agricultural guidance.\n"
+  },
+  {
+    "id": "tomato_bacterial_spot",
+    "crop": "Tomato",
+    "disease": "Bacterial Spot",
+    "content": "\nBacterial spot affects tomato and pepper plants and is caused by several\nclosely related Xanthomonas bacteria.\n\nSymptoms:\nTomato leaves can develop small brown circular spots surrounded by yellow\nhalos. The centers of some spots may fall out and produce small holes.\nThe disease can also affect stems, petioles, and fruit.\n\nDisease development:\nWarm and humid conditions favor bacterial spot. The bacteria can spread\nthrough splashing water, contaminated tools, hands, and infected plant\nmaterial.\n\nManagement:\nUse healthy seed and transplants. Keep foliage dry, avoid overhead\nwatering when possible, improve air circulation, and sanitize tools.\nRemove or bury infected crop debris after the growing season.\n"
+  },
+  {
+    "id": "tomato_bacterial_canker",
+    "crop": "Tomato",
+    "disease": "Bacterial Canker",
+    "content": "\nTomato bacterial canker is caused by Clavibacter michiganensis\nsubspecies michiganensis.\n\nSymptoms:\nSymptoms can include wilting, yellowing leaf edges, brown leaf\ndiscoloration, stem cankers, and vascular discoloration. Fruit can\ndevelop small raised spots sometimes called bird's-eye spots.\n\nDisease development:\nThe pathogen can spread through infected seed or transplants and can\nalso spread through hands, equipment, and pruning activities.\n\nManagement:\nUse healthy seed and transplants. Avoid working with plants when foliage\nis wet. Sanitize pruning tools and equipment. Remove infected plants and\nplant debris where appropriate and use crop rotation.\n"
+  },
+  {
+    "id": "potato_early_blight",
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "content": "\nPotato early blight is caused by Alternaria species including\nAlternaria solani.\n\nSymptoms:\nDark brown leaf spots can develop, often with concentric rings.\nSevere infection can cause leaf death. Tubers can also be affected.\n\nManagement:\nUse healthy planting material, maintain good plant vigor, improve\nair circulation, avoid prolonged leaf wetness, remove infected debris,\nand use appropriate crop rotation practices.\n"
+  },
+  {
+    "id": "potato_late_blight",
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "content": "\nPotato late blight is caused by Phytophthora infestans.\n\nSymptoms:\nLeaves can develop dark lesions and under humid conditions white growth\nmay appear. Potato tubers can develop brown, red, or purple discoloration\nand may subsequently be affected by soft rot bacteria.\n\nDisease development:\nCool and damp conditions favor disease development.\n\nManagement:\nUse certified healthy potato seed, control volunteer potatoes and cull\npiles, scout regularly, and remove infected material when appropriate.\nKeep foliage dry where practical and follow local disease-management\nguidance.\n"
+  },
+  {
+    "id": "pepper_bacterial_spot",
+    "crop": "Pepper",
+    "disease": "Bacterial Spot",
+    "content": "\nPepper bacterial spot is associated with Xanthomonas bacteria.\n\nSymptoms:\nPepper leaves may develop small brown circular spots. Fruit can develop\nraised corky brown spots. Symptoms are often more severe on lower leaves.\n\nDisease development:\nWarm and wet conditions favor the disease. Bacteria can spread through\nsplashing water, tools, hands, and infected plant material.\n\nManagement:\nUse healthy seed and transplants, avoid unnecessary handling of wet\nplants, keep foliage dry, improve spacing and air circulation, and\nsanitize tools.\n"
+  },
+  {
+    "id": "pepper_phytophthora_blight",
+    "crop": "Pepper",
+    "disease": "Phytophthora Blight",
+    "content": "\nPhytophthora blight can affect pepper plants and is caused by\nPhytophthora capsici.\n\nSymptoms:\nWater-soaked to tan lesions can develop on leaves. Fruit can develop\nsoft water-soaked spots. Dark sunken lesions can occur on stems and\nplants can wilt.\n\nDisease development:\nThe disease can spread rapidly under favorable wet conditions.\n\nManagement:\nImprove drainage and avoid conditions that keep plants excessively wet.\nUse appropriate crop rotation and sanitation practices and follow local\ndisease-management recommendations.\n"
+  },
+  {
+    "id": "apple_scab",
+    "crop": "Apple",
+    "disease": "Apple Scab",
+    "content": "\nApple scab is a fungal disease that affects apple and related plants.\n\nSymptoms:\nSymptoms can include olive-green to brown lesions on leaves and fruit.\nSevere infection can cause leaf loss and fruit blemishes.\n\nManagement:\nRemove fallen infected leaves where practical, maintain good orchard\nsanitation, improve airflow, and use disease-resistant varieties where\navailable. Fungicide decisions should follow local recommendations and\nproduct labels.\n"
+  },
+  {
+    "id": "corn_northern_leaf_blight",
+    "crop": "Corn",
+    "disease": "Northern Leaf Blight",
+    "content": "\nNorthern leaf blight is a fungal disease of corn.\n\nSymptoms:\nLong, elliptical gray-green to tan lesions can develop on corn leaves.\nUnder favorable conditions, lesions can enlarge and cause significant\nleaf area to become diseased.\n\nManagement:\nUse resistant hybrids where available, rotate crops when appropriate,\nmanage crop residue, and follow locally recommended disease-management\npractices.\n"
+  }
+]
